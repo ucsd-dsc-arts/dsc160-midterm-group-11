@@ -4,8 +4,8 @@ DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members: 
 
-  -Yuxi Luo, yul884@ucsd.edu
-  -Emily Kwan, ekwan@ucsd.edu
+  Yuxi Luo, yul884@ucsd.edu
+  - Emily Kwan, ekwan@ucsd.edu
   
   Ittoop Shinu Shibu, ishibu@ucsd.edu
   
