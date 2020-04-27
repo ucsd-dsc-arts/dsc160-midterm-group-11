@@ -12,19 +12,9 @@ Project Team Members:
 
 ## Abstract
 
-(10 points) 
-
-For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
-
-- What is the data set that you are going to analyze?
-- What is your research question? 
-- What is your hypothesis about the results? 
-- What features of the data will you use to address your question? 
-- What techniques and software tools will you use to extract these features?
-- What analytic techniques will you use?
-- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
+  Group 11 plans to build a classifier and perform analysis for a unique art form: movie posters. Our goal is to be able to predict a movie’s respective genre based on its movie poster. The reason that our group decided to focus on this particular subject is because while movie making is highly regarded as an art form, we feel that the movie poster specifically is often overlooked. Like Rothko and many other artist’s work, we want to be able to shed some insight into this particular art form in a data-driven way and perhaps unveil some deeper meaning with our findings. In order to achieve this, we will compare the classified movies using K-means clustering to analyze how far apart or close each respective movie is grouped together. The data set we are going to analyze is from IMDB and contains the movie name, genre, IMDB score. We shall calculate basic image features from these posters and add it to the above Data Frame. We propose that specific movie genres will use different features and elements in their movie posters, making it possible to classify on these differences. Some features that we will use to address our question are movie rating score, entropy of image, energy of image, edge detection, facial data, and more. 
+  
+	The tools and techniques that we will be implementing to extract the necessary features to achieve our classification model will include using a convolutional neural network with Keras and TensorFlow or other machine learning algorithms such as Decision Trees, Random Forestation, etc. In addition, we will also try to use Bitmaps to analyse where each respective movie poster lies on a mean value versus mean hue scale. After performing our analysis, we expect that our results be displayed with multiple graphs to show the performance of our classifier (training vs. validation accuracy). We also plan to include a confusion matrix in order to show how accurately our classifier identifies a genre and compare between classifiers. One of our goals for this project is to continuously build off of what we had learned in class. To do so, we will use aspects of the Rothko classifier example, such as Bitmap generation and use beautiful soup to extract all movie posters. We will also be using sklearn packages such as skimage to help with the above analysis. What makes this project so interesting to us is coming up with a way to identify a potential genre without actually knowing anything about the movie. It’s a way of using machine learning to build a classifier solely based on image analysis. A lot of artwork and effort goes into making these posters that usually try and cover some sort of theme. For example a horror movie, would have a completely different poster to that of dumb and dumber which is a comedy movie. This information is easy for a person like us to judge but would also be impressive to be able to build a similar predictor to do that job for us. If time permits, we also feel looking at audio clips from the movie to classify it as the correct genre is something worth looking into. 
 
 ## Data
 
