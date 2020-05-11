@@ -56,10 +56,12 @@ The color black (and colors clustered with black, according to Euclidean distanc
 
 The graphs below show the comparison between the color distributions for horror and romance movie posters.
 
-**Horror**
+**Horror Colors**
+
 ![horror](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/results/color_analysis_plots/horror.PNG)
 
-**Romance**
+**Romance Colors**
+
 ![romance](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/results/color_analysis_plots/romance.PNG)
 
 ## Discussion
