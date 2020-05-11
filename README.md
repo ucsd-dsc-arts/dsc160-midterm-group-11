@@ -39,6 +39,8 @@ This section will link to the various code for your project (stored within this 
 
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
+The midterm_160_color_analysis.ipynb notebook
+
 ## Results
 
 (30 points) 
