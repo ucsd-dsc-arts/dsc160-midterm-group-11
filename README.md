@@ -51,6 +51,8 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+
+`**INSERT HERE**`
 **Color analysis using clustering:**
 
 The color black (and colors clustered with black, according to Euclidean distance of RGB channels) appears to be common across all of the genres, but it dominates in the `horror` posters. This is actually very plausible and makes a lot of sense because horror movies are typically distinguished by very dark elements/sentiments; it is very reasonable that black is the predominant color in the posters. The `romance` barplot was surprising; specifically, we expected more colors in the red category (red and its shades are typically associated with romance). However, it is possible that the sample used simply did not contain that much red colors. The `fantasy`, `drama`, and `sci-fi` genres share a similar distribution of colors; we believe that this could be attributed to the possibility that fantasy, drama, and sci-fi films share common elements in terms of visuals and settings, which would lead to similar color choices for their posters. The `documentary` genre seems to exhibit ties between black, white, silver, and gray, sharing a similar distribution with `romance`.
@@ -79,7 +81,7 @@ The subsequent paragraphs could address questions including:
 - In what future directions could you expand this work?
 
 
-
+`**INSERT HERE**`
 The analysis of the pixels/colors is relevant to how colors are perceieved in different cultures. For American movies (which are the origin of the movie posters), we found that the colors clustered with `black` were the predominant colors of `horror` posters. Dark colors/shades are often associated as "bad" or "dangerous", which is why horror movies tend to be set during the night. It makes sense that the horror movie posters are predominantly composed of black pixels, since that would emphasize the "horror" or "danger" element of the actual film. The computational method of clustering is used in a unique way; typically, k-means clustering is an unsupervised method for classifying unlabeled items. For this analysis, clustering was used to reduce the number of colors we would have to analyze; each poster can have anywhere from 4000 to 10000 unique colors (defined by RGB channels) and clustering can help reduce the amount by grouping similar colors into pre-defined clusters (typical colors like black, white, red, green, blue). That is, rather than evaluating every possible shade of blue, we cluster all shades with the base color blue (RGB: (0, 0, 255)). In a sense, this is a supervised clustering because we use pre-defined clusters and find the distances of other colors (RGB channels) to the clusters. Designers of movie posters (or really, any art) may use this analysis to determine their choices for colors for a particular emotion they want to incite. For example, an artist who wants to create something that emphasizes love may want to use more reds, pinks and whites, while an artist who wants emphasis on danger might want to use more darker shades like black, gray, and brown. However, it may not necessarily change any practices, but rather, reinforce the current practices.
 
 
