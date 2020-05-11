@@ -39,7 +39,7 @@ This section will link to the various code for your project (stored within this 
 
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
-The [midterm_160_color_analysis.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_color_analysis.ipynb) notebook
+The [midterm_160_color_analysis.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_color_analysis.ipynb) notebook provides the code for the color analysis of posters using clustering.
 
 ## Results
 
@@ -51,6 +51,8 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+Color analysis using clustering:
+The color black (and colors clustered with black, according to Euclidean distance of RGB channels) appears to be common across all of the genres, but it dominates in the `horror` posters. This is actually very plausible and makes a lot of sense because horror movies are typically distinguished by very dark elements/sentiments; it is very reasonable that black is the predominant color in the posters. The `romance` barplot was surprising; specifically, we expected more colors in the red category (red and its shades are typically associated with romance). However, it is possible that the sample used simply did not contain that much red colors. The `fantasy`, `drama`, and `sci-fi` genres share a similar distribution of colors; we believe that this could be attributed to the possibility that fantasy, drama, and sci-fi films share common elements in terms of visuals and settings, which would lead to similar color choices for their posters. The `documentary` genre seems to exhibit ties between black, white, silver, and gray, sharing a similar distribution with `romance`.
 ## Discussion
 
 (30 points, three to five paragraphs)
@@ -67,6 +69,8 @@ The subsequent paragraphs could address questions including:
 ## Team Roles
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+
+Eric wrote the base function for scraping images and the code for the color-analysis using clustering.
 
 ## Technical Notes and Dependencies
 
