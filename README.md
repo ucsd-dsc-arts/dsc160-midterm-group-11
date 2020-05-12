@@ -63,9 +63,9 @@ The graphs below show the comparison between the color distributions for posters
 
 ![scifi](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/results/color_analysis_plots/scifi.PNG)
 
-**Romance mean vs hue**
+**Romance: Mean vs Hue**
 ![Romance: Mean vs Hue]
-https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/romance-bitmap-value-vs-hue.jpg
+(https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/romance-bitmap-value-vs-hue.jpg)
 
 **Documentary: Value vs Hue**
 ![Documentary: Value vs Hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/DOC_VALUE_VS_HUE.jpg)
