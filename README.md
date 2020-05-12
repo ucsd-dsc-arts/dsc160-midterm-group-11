@@ -18,7 +18,7 @@ Project Team Members:
 
 ## Data
 
-  The dataset we are using is from the Kaggle dataset [Movie Genre from its Poster]("https://www.kaggle.com/neha1703/movie-genre-from-its-poster") generated from IMDB which had movie titles, IMDB scores, genres, and a link to the image of each movie’s poster. This dataset was created in 2017 and updated in 2018. From this dataset, we selected 6 genres of interest and for each respective genre, we downloaded the movie poster images from the given link which became our images dataset. The movie poster images are digital native posters created by digital artists in collaboration with the movie studio in order to promote or advertise the movie. They were created around the time of release and promotion of each movie. 
+  The dataset we are using is from the Kaggle dataset [Movie Genre from its Poster](https://www.kaggle.com/neha1703/movie-genre-from-its-poster) generated from IMDB which had movie titles, IMDB scores, genres, and a link to the image of each movie’s poster. This dataset was created in 2017 and updated in 2018. From this dataset, we selected 6 genres of interest and for each respective genre, we downloaded the movie poster images from the given link which became our images dataset. The movie poster images are digital native posters created by digital artists in collaboration with the movie studio in order to promote or advertise the movie. They were created around the time of release and promotion of each movie. 
 
 ## Code
 
