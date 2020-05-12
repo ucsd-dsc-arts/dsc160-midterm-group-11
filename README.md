@@ -89,9 +89,16 @@ The analysis of the pixels/colors is relevant to how colors are perceieved in di
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+Yuxi - performed EDA on ‘Documentary’ and ‘Sci-Fi’ genres (generated histograms, bitmaps, and other visualizations). Worked on cleaning and aggregating datasets for KNN classification implementation.
 
-Eric wrote the base function for scraping images and the code for the color-analysis using clustering.
+Eric -  wrote the base function for scraping images and the code / data cleaning for the color-analysis using clustering.
+
+Emily - contributed to the description of data and discussion of results. worked on data cleaning and replicating movie genre classification based on movie ratings and other features. 
+
+Pratyush - Performed EDA on ‘Romance’ and ‘Horror’ genres. Worked on preprocessing and creating a KNN model to try and classify different movies based on their image stats and features
+
+Shinu - Performed EDA on ‘Fantasy’ and ‘Drama’ genres. Worked on cleaning and preprocessing dataset for the KNN classification model.
+
 
 ## Technical Notes and Dependencies
 
