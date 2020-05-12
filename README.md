@@ -102,14 +102,20 @@ Shinu - Performed EDA on ‘Fantasy’ and ‘Drama’ genres. Worked on cleanin
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
 - Additional libraries you are using for this project
+  All our libraries are included in the notebooks.
+  
 - Does this code require other pip packages, software, etc?
+  No, all the packages we used are included in the notebooks
+
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+  All of our code was run on DataHub. A potential note to be aware of is the differences in each ‘.ipynb’ file. Each respective member was able to execute their own respective part in separate notebooks. In the end, we were all able to collaborate and bring together everything we worked on, however, there may be issues stringing all the notebooks together.
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+https://github.com/davideiacobs/-Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
+https://towardsdatascience.com/unsupervised-classification-project-building-a-movie-recommender-with-clustering-analysis-and-4bab0738efe6
+https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/
+https://www.gnomon.edu/blog/15-things-you-need-to-know-to-design-posters-for-hollywood-movies
+https://www.theguardian.com/film/2016/jan/28/why-modern-movie-posters-are-so-dreadful
+https://stackoverflow.com/questions/48973768/calculating-dual-energy-gradient-using-numpy/48974892#48974892
