@@ -63,15 +63,14 @@ The graphs below show the comparison between the color distributions for posters
 
 ![scifi](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/results/color_analysis_plots/scifi.PNG)
 
+**Horror: Mean vs Hue**
+![Horror mean vs hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/horror-bitmap-value-vs-hue.jpg)
 **Romance: Mean vs Hue**
 ![Romance: Mean vs Hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/romance-bitmap-value-vs-hue.jpg)
-
 **Documentary: Value vs Hue**
 ![Documentary: Value vs Hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/DOC_VALUE_VS_HUE.jpg)
-
 **Documentary: Value vs Saturation**
 ![Documentary: Value vs Saturation](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/DOC_VALUE_VS_SATURATION.jpg)
-
 **Sci-Fi: Value vs Hue**
 ![Sci-Fi: Value vs Hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/SCIFI_VALUE_VS_HUE.jpg)
 **Sci-Fi: Value vs Saturation**
@@ -84,6 +83,7 @@ The graphs below show the comparison between the color distributions for posters
 ![Fantasy: Value vs Hue](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/fantasy-bitmap-value-vs-hue.jpg)
 **Fantasy: Value vs Saturation**
 ![Fantasy: Value vs Saturation](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/images/fantasy-bitmap-value-vs-saturation.jpg)
+
  
 Upon looking at all of the different BitMaps across the different genres, we noticed that while there are no substantial conclusions we can draw, we can learn a lot more by actually doing individual image analysis and seeing how this varies image by image and also across all posters as a whole. All of the notebooks contain an advanced analysis of these poster images as we tried to see on what basis could a classification error occur and if there is a common theme to movie posters that can be explored.
 
