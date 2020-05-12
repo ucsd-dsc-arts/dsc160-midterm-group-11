@@ -25,8 +25,11 @@ Project Team Members:
 ## Code
 
 The [midterm_160_color_analysis.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_color_analysis.ipynb) notebook provides the code for the color analysis of posters using clustering.
+
 The [fantasy_drama_EDA.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/fantasy-drama-EDA.ipynb) notebook contains code for the EDA performed on the fantasy and drama posters present in the dataset.
+
 The [midterm_160_sci-fi_documentary_genre_eda.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_sci-fi_documentary_genre_eda.ipynb) notebook contains code for the EDA performed on the ‘Documentary’ and ‘Science-Fiction’ genres of the posters present in our dataset. In addition, this notebook also includes snippets of code that precleans the dataset for the KNN classification model. 
+
 The [160 Project Notebook](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/160%20Project%20(1).ipynb) contains an analysis of the EDA between horror and Romance and also lays the groundwork for the building of the KNN for our analysis.
 
 
