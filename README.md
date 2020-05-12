@@ -123,3 +123,4 @@ Shinu - Performed EDA on ‘Fantasy’ and ‘Drama’ genres. Worked on cleanin
 - https://www.gnomon.edu/blog/15-things-you-need-to-know-to-design-posters-for-hollywood-movies
 - https://www.theguardian.com/film/2016/jan/28/why-modern-movie-posters-are-so-dreadful
 - https://stackoverflow.com/questions/48973768/calculating-dual-energy-gradient-using-numpy/48974892#48974892
+- https://github.com/yujingma45/Kmeans_Movie
