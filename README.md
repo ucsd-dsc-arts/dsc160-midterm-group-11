@@ -22,18 +22,12 @@ Project Team Members:
 
 ## Code
 
-(20 points)
-
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
-- data acquisition/scraping
-- cleaning
-- analysis
-- generating results. 
-
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
-
 The [midterm_160_color_analysis.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_color_analysis.ipynb) notebook provides the code for the color analysis of posters using clustering. The notebook consists of functions for scraping/retrieving and processing images from urls, a custom implementation of k-means clustering based on Euclidean distance, and graphical displays of the results.
+
+The [fantasy_drama_EDA.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/fantasy-drama-EDA.ipynb) notebook contains code for the EDA performed on the fantasy and drama posters present in the dataset.
+
+The [midterm_160_sci-fi_documentary_genre_eda.ipynb](https://github.com/ucsd-dsc-arts/dsc160-midterm-group-11/blob/master/code/midterm_160_sci-fi_documentary_genre_eda.ipynb) notebook contains code for the EDA performed on the ‘Documentary’ and ‘Science-Fiction’ genres of the posters present in our dataset. In addition, this notebook also includes snippets of code that precleans the dataset for the KNN classification model. 
+
 
 ## Results
 
