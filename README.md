@@ -113,9 +113,9 @@ Shinu - Performed EDA on ‘Fantasy’ and ‘Drama’ genres. Worked on cleanin
 
 ## Reference
 
-https://github.com/davideiacobs/-Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
-https://towardsdatascience.com/unsupervised-classification-project-building-a-movie-recommender-with-clustering-analysis-and-4bab0738efe6
-https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/
-https://www.gnomon.edu/blog/15-things-you-need-to-know-to-design-posters-for-hollywood-movies
-https://www.theguardian.com/film/2016/jan/28/why-modern-movie-posters-are-so-dreadful
-https://stackoverflow.com/questions/48973768/calculating-dual-energy-gradient-using-numpy/48974892#48974892
+- https://github.com/davideiacobs/-Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
+- https://towardsdatascience.com/unsupervised-classification-project-building-a-movie-recommender-with-clustering-analysis-and-4bab0738efe6
+- https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/
+- https://www.gnomon.edu/blog/15-things-you-need-to-know-to-design-posters-for-hollywood-movies
+- https://www.theguardian.com/film/2016/jan/28/why-modern-movie-posters-are-so-dreadful
+- https://stackoverflow.com/questions/48973768/calculating-dual-energy-gradient-using-numpy/48974892#48974892
